@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tarun-paul-b317ab200/](https://www.linkedin.com/in/tarun-paul-b317ab200/)
 
-- 📝 I regularly write articles on [https://medium.com/@tarunpaul724/](https://medium.com/@tarunpaul724/)
+- 📝 I write articles on [https://medium.com/@tarunpaul724/](https://medium.com/@tarunpaul724/)
 
 - 💬 Ask me about **Python, Java**
 
