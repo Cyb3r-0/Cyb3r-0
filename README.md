@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyb3r-0&label=Profile%20views&color=0e75b6&style=flat" alt="cyb3r-0" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m a Software Developer working as a **ASP.Net Developer**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tarun-paul-b317ab200/](https://www.linkedin.com/in/tarun-paul-b317ab200/)
 
 - 📝 I write articles on [https://medium.com/@tarunpaul724/](https://medium.com/@tarunpaul724/)
 
-- 💬 Ask me about **Python, Java**
+- 💬 Ask me about **Python, Java, Data Analytics, Machine Learning**
 
 - 📫 How to reach me **tarunpaul724@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XcfsGQ8YcRvL8nyOZT8Xm_KmSqSkL98r/view?usp=drive_link](https://drive.google.com/file/d/1XcfsGQ8YcRvL8nyOZT8Xm_KmSqSkL98r/view?usp=drive_link)
 
-- ⚡ Fun fact **I am funny😅**
+- ⚡ Fun fact **I am funny😅 and Geeky👽**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
